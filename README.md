@@ -1,4 +1,7 @@
-# Khun Uthdam
+# Khun Uthdam - Data Analyst Portfolio
+
+### About
+
 - 👋 Hi, I’m @Uthdxm
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
