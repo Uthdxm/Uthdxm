@@ -1,4 +1,4 @@
-# Khun Uthdam - Data/Business Analyst Portfolio
+# Khun Uthdam - Data Analyst Portfolio
 
 ## About
 
