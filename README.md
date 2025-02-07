@@ -14,7 +14,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Analytics related topics.
 
 ## Table of Contents
-- [About]
+- [About](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#About)
 - [Portfolio Projects]
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie]
