@@ -1,6 +1,6 @@
 # Khun Uthdam - Data Analyst Portfolio
 
-### About
+## About
 
 Hi, I'm Uthdam! I am on track to completing my degree in Digital Business. I am passionate about using data to uncover meaningful insights for business. I am excited to bring my soft skill,technical, and analytical skills to the field of data science as an entry-level data specialist.
 
@@ -12,6 +12,26 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Analytics related topics.
+
+## Table of Contents
+- [About]
+- [Portfolio Projects]
+  - Python
+    - [Analyzing the Factors Contributing to the Success of a Movie]
+    - [Tech Store Sales Analysis]
+  - SQL
+    - [Covid 19 Data Exploration]
+    - [Nashville Housing Data Cleaning]
+  - R
+    - [Legendary Pokémon Analysis (Study Project)]
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..]
+  - Power BI
+  
+
+
+- [Education] 
+- [Certificates]
 
 - 👋 Hi, I’m @Uthdxm
 - 👀 I’m interested in ...
