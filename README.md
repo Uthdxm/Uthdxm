@@ -19,15 +19,15 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power BI
     - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Sale-Report)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie]
-    - [Tech Store Sales Analysis]
+    - 
+    - 
   - SQL
-    - [Covid 19 Data Exploration]
-    - [Nashville Housing Data Cleaning]
+    - 
+    - 
   - R
-    - [Legendary Pokémon Analysis (Study Project)]
+    - 
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..]
+  - Tableau---> 
 
   
 
