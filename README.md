@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#About)
 - [Portfolio Projects]
   - Power BI
-    - [
+    - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/edit/main/README.md###Sale Report)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie]
     - [Tech Store Sales Analysis]
@@ -39,17 +39,17 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Project
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Sale Report
-#### Dashboard: [Sale Report.pbix](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/Sale%20Report.pbix)
+**Dashboard**: [Sale Report.pbix](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/Sale%20Report.pbix)
 
-#### Goal:
+**Goal**: Analyze sales performance across regions, products, and market segments to identify key trends and provide actionable insights.
 
-#### Description:
+**Description**: Developed an interactive Power BI dashboard to visualize sales performance, helping stakeholders make data-driven decisions. The report includes regional analysis, customer segment insights, product performance, and trend analysis over time.
 
-#### Skills:
+**Skills**: Data visualization, DAX calculations, data modeling, storytelling with data, business intelligence reporting
 
-#### Technology:
+**Technology**: Power BI, Python, DAX
 
-#### Result:
+**Result**: Delivered a dynamic and user-friendly dashboard that allowed stakeholders to identify high-performing regions, profitable products, and emerging market trends, leading to data-driven strategic decisions.
 
 - 👋 Hi, I’m @Uthdxm
 - 👀 I’m interested in ...
