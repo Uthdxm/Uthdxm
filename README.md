@@ -39,7 +39,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Project
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Sale Report
-#### Dashboard: [Sale Report.pbix]()
+#### Dashboard: [Sale Report.pbix](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/Sale%20Report.pbix)
 
 #### Goal:
 
