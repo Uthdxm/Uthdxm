@@ -35,9 +35,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Education] 
 - [Certificates]
-- [Contact]
-  - [My Linkedin](https://www.linkedin.com/in/khun-uthdam-630990332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+- [Contact](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Contacts)
+ 
 ## Portfolio Project
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Sale Report
@@ -65,6 +64,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology**: Power BI, Python, DAX
 
 **Result**: Delivered a dynamic and user-friendly dashboard that empowered stakeholders to quickly identify high-performing regions, most profitable products, seasonal trends, and customer behaviors. This insight led to better-targeted marketing campaigns, optimized inventory management, and improved sales strategies.
+
+## Contacts
+ - [My Linkedin](https://www.linkedin.com/in/khun-uthdam-630990332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 👋 Hi, I’m @Uthdxm
 - 👀 I’m interested in ...
