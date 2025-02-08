@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#About)
-- [Portfolio Projects]
+- [Portfolio Projects](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Portfolio-Project)
   - Power BI
     - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Sale-Report)
     - [Online Shopping Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Online-Shopping-Dashboard)
