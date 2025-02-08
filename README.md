@@ -18,6 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects]
   - Power BI
     - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Sale-Report)
+    - [Online Shopping Dashboard](
   - Python
     - 
     - 
@@ -40,6 +41,19 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Sale Report
 **Dashboard**: [Sale Report.pbix](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/Sale%20Report.pbix)
+
+**Goal**: Analyze sales performance across regions, products, and market segments to identify key trends and provide actionable insights.
+
+**Description**: Developed an interactive Power BI dashboard to visualize sales performance, helping stakeholders make data-driven decisions. The report includes regional analysis, customer segment insights, product performance, and trend analysis over time.
+
+**Skills**: Data visualization, DAX calculations, data modeling, storytelling with data, business intelligence reporting
+
+**Technology**: Power BI, Python, DAX
+
+**Result**: Delivered a dynamic and user-friendly dashboard that allowed stakeholders to identify high-performing regions, profitable products, and emerging market trends, leading to data-driven strategic decisions.
+
+### Online Shopping Dashboard
+**Dashboard**: [Online Shopping Report.pbix]()
 
 **Goal**: Analyze sales performance across regions, products, and market segments to identify key trends and provide actionable insights.
 
