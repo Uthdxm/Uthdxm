@@ -36,6 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Education] 
 - [Certificates]
 - [Contact]
+  - [My Linkedin](https://www.linkedin.com/in/khun-uthdam-630990332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Project
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
