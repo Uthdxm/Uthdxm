@@ -16,6 +16,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#About)
 - [Portfolio Projects]
+  - Power BI
+    - [
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie]
     - [Tech Store Sales Analysis]
@@ -26,12 +28,28 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)]
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..]
-  - Power BI
+
   
 
 
 - [Education] 
 - [Certificates]
+- [Contact]
+
+## Portfolio Project
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+### Sale Report
+Code: [Sale Report.pbix]()
+
+Goal:
+
+Description:
+
+Skills:
+
+Technology:
+
+Result:
 
 - 👋 Hi, I’m @Uthdxm
 - 👀 I’m interested in ...
