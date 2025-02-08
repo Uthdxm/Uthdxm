@@ -55,15 +55,15 @@ In this section I will list data analytics projects briefly describing the techn
 ### Online Shopping Dashboard
 **Dashboard**: [Online Shopping Dashboard.pbix](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/Online%20Shopping%20Dashboard.pbix)
 
-**Goal**: Analyze sales performance across regions, products, and market segments to identify key trends and provide actionable insights.
+**Goal**: Analyze sales performance across regions, products, and market segments to identify key trends and provide actionable insights, helping stakeholders optimize sales strategies and product offerings.
 
-**Description**: Developed an interactive Power BI dashboard to visualize sales performance, helping stakeholders make data-driven decisions. The report includes regional analysis, customer segment insights, product performance, and trend analysis over time.
+**Description**: Developed an interactive Power BI dashboard to visualize and analyze sales performance, revenue trends, and customer insights. The dashboard provides an in-depth look at key metrics such as sales trends over time, the most revenue-generating products, seasonal variations, and top-performing regions. It also highlights underperforming products, discount effectiveness, and market segments, including customer demographics and behaviors.
 
-**Skills**: Data visualization, DAX calculations, data modeling, storytelling with data, business intelligence reporting
+**Skills**: Data visualization, DAX calculations, Data modeling, Storytelling with data 
 
 **Technology**: Power BI, Python, DAX
 
-**Result**: Delivered a dynamic and user-friendly dashboard that allowed stakeholders to identify high-performing regions, profitable products, and emerging market trends, leading to data-driven strategic decisions.
+**Result**: Delivered a dynamic and user-friendly dashboard that empowered stakeholders to quickly identify high-performing regions, most profitable products, seasonal trends, and customer behaviors. This insight led to better-targeted marketing campaigns, optimized inventory management, and improved sales strategies.
 
 - 👋 Hi, I’m @Uthdxm
 - 👀 I’m interested in ...
