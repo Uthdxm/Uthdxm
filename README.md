@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#About)
 - [Portfolio Projects]
   - Power BI
-    - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md###SaleReport)
+    - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Sale-Report)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie]
     - [Tech Store Sales Analysis]
