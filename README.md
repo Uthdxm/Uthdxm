@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects]
   - Power BI
     - [Sale Report Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Sale-Report)
-    - [Online Shopping Dashboard](
+    - [Online Shopping Dashboard](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/README.md#Online-Shopping-Dashboard)
   - Python
     - 
     - 
@@ -53,7 +53,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result**: Delivered a dynamic and user-friendly dashboard that allowed stakeholders to identify high-performing regions, profitable products, and emerging market trends, leading to data-driven strategic decisions.
 
 ### Online Shopping Dashboard
-**Dashboard**: [Online Shopping Report.pbix]()
+**Dashboard**: [Online Shopping Dashboard.pbix](https://github.com/Uthdxm/uthdam-khun-portfolio/blob/main/Online%20Shopping%20Dashboard.pbix)
 
 **Goal**: Analyze sales performance across regions, products, and market segments to identify key trends and provide actionable insights.
 
